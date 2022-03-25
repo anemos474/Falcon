@@ -1,0 +1,209 @@
+{
+  "app": {
+    "offlineMessage": "It looks like you are offline. Some services might not work as expected unitl you're back online.",
+    "skipToMain": "Skip to the main content",
+    "confirmLeave": "Are you sure you want to leave the page? Information you have entered might not be saved.",
+    "loading": "Loading",
+    "supportEmail": "info@deity.io"
+  },
+  "cart": {
+    "title": "Cart summary",
+    "subtitle": "Take a look at what's in your cart before proceeding to checkout.",
+    "checkout": "Proceed to checkout",
+    "continueShopping": "Or continue shopping.",
+    "couponCode": "Voucher code",
+    "applyCouponCode": "Add",
+    "cancelCouponCode": "Remove"
+  },
+  "checkoutSignIn": {
+    "title": "Sign in to your account.",
+    "description": "Sign in to proceed to checkout.",
+    "newCustomer": "New customer?",
+    "newCustomerMessage": "Become a member and receive updates on new products, invitations to member-only events, faster checkouts, and order tracking.",
+    "newCustomerButton": "Create new account",
+    "haveAccount": "Already have an account?",
+    "haveAccountMessage": "Sign in with your credentials.",
+    "haveAccountButton": "Sign in to your account",
+    "guest": "Checkout as guest",
+    "guestMessage": "Keep in mind you won’t be able to receive exclusive deals, checkout faster and track your orders.",
+    "guestButton": "Continue as guest"
+  },
+  "checkout": {
+    "customerSectionTitle": "Customer info",
+    "customerCheckoutMessage": "To continue with your order, please fill in your address details or choose one of your saved addresses.",
+    "guestCheckoutMessageP1": "You have chosen Guest checkout. ",
+    "signInLink": "Sign in or register",
+    "guestCheckoutMessageP2": " to receive updates on new products, faster checkouts, and use order tracking.",
+    "savedAddress": "Saved address",
+    "shippingAddressSectionTitle": "$t(checkout.shippingAddress)",
+    "billingAddressSectionTitle": "$t(checkout.billingAddress)",
+    "shippingMethodSectionTitle": "Delivery",
+    "shippingMethodSectionDescription": "How should the order be delivered?",
+    "chooseShippingMethod": "Choose a delivery method",
+    "useTheSameAddress": "Use this address as billing address.",
+    "paymentMethodSectionTitle": "Payment",
+    "paymentMethodSectionDescription": "How would you like to pay?",
+    "choosePaymentMethod": "Choose a payment method",
+    "placeOrderSectionTitle": "Summary",
+    "placeOrderSectionDescription": "Check if everything is correct before you place your order.",
+    "paymentRedirectTitle": "Please wait",
+    "paymentRedirectDescription": "You are being redirected to complete payment...",
+    "shippingMethod": "Delivery method",
+    "paymentMethod": "Payment method",
+    "placeOrder": "Place order",
+    "cartLabel": "Cart",
+    "cartItems": "{{count}} item",
+    "cartItems_plural": "{{count}} items",
+    "edit": "Edit",
+    "editCart": "$t(checkout.edit)",
+    "couponLabel": "Voucher",
+    "shippingAddressLabel": "Delivery address",
+    "billingAddressLabel": "Billing address",
+    "shippingMethodLabel": "$t(checkout.shippingMethod)",
+    "paymentMethodLabel": "$t(checkout.paymentMethod)",
+    "itemsLabel": "Items",
+    "paymentLabel": "Payment",
+    "shippingLabel": "Shipping",
+    "discountLabel": "Discount",
+    "taxLabel": "Tax",
+    "nextStep": "Continue to $t(checkout.{{step}}SectionTitle)",
+    "nextStepGeneric": "Continue",
+    "prevStep": "Go back to $t(checkout.{{step}}SectionTitle)",
+    "prevStepGeneric": "Go back",
+    "noShippingMethodsAvailable": "Unfortunately, we are unable to deliver to the specified shipping address. Please adjust your shipping address or contact us.",
+    "changePaymentMethod": "Choose another payment method",
+    "noPayment": "No payment is needed for this order.",
+    "payments": {
+      "mollie": {
+        "ideal": "iDEAL",
+        "creditcard": "Credit Card",
+        "klarnapaylater": "Klarna (Pay later)",
+        "paypal": "PayPal",
+        "sofort": "sofort",
+        "giftcard": "Gift Card",
+        "voucher": "Gift Voucher",
+        "bancontact": "Bancontact",
+        "giropay": "Giropay",
+        "eps": "EPS",
+        "przelewy24": "Przelewy24",
+        "kbc": "KBC",
+        "belfius": "Belfius",
+        "inghomepay": "ING Home’Pay",
+        "banktransfer": "SEPA Bank Transfer"
+      },
+      "stripe": {
+        "creditcard": "Credit Card"
+      },
+      "cash": {
+        "cash": "cash"
+      },
+      "magento": {
+        "checkmo": "Check / Money order",
+        "paypal_express": "PayPal Express",
+        "adyen_oneclick": "Adyen One Click",
+        "adyen_cc": "Credit Card",
+        "deity_payment_offline": "Cash"
+      }
+    }
+  },
+  "checkoutConfirmation": {
+    "pageTitle": "Order Success",
+    "title": "Thank you for your order!",
+    "orderReceived": "We have received your order (No.: {{referenceNo}}) with the following items:",
+    "realizationNotice": "We are working hard on getting your items to you as soon as possible.",
+    "shippingNotice": "We will send you a shipping confirmation email once your order is on the way.",
+    "goShoppingButton": "Continue shopping"
+  },
+  "checkoutPending": {
+    "title": "Payment Pending",
+    "body": "The status of your payment is being obtained",
+    "pendingOrder": "We've received your order but your payment is still pending. Once we've received payment it will be marked as complete and you'll be notified by email.",
+    "pendingOrder2": "Thanks for shopping with us."
+  },
+  "checkoutFailure": {
+    "title": "Order Failed",
+    "body": " Unfortunately we could not process your payment.",
+    "restoreCartSuccess": "Hooray! We've restored your cart and checkout data.",
+    "goToCheckoutButton": "Go to Checkout",
+    "goShoppingButton": "Continue Shopping",
+    "restoreCartFailed": "We were unable to restore your data.",
+    "restoreCartInformation": "Would you like us to restore your data to try again?",
+    "restoreCartButton": "Restore your cart"
+  },
+  "creditCard": {
+    "namePlaceholder": "Name on card",
+    "numberPlaceholder": "Card number",
+    "cvcPlaceholder": "CVC",
+    "expiryPlaceholder": "MM/YY",
+    "errors": {
+      "invalidCvc": "CVC is invalid",
+      "invalidCardNumber": "Card number is invalid",
+      "invalidExpiryDate": "Expiry date is invalid",
+      "monthOutOfRange": "Expiry month must be between 01 and 12",
+      "yearOutOfRange": "Expiry year cannot be in the past",
+      "dateOutOfRange": "Expiry date cannot be in the past"
+    }
+  },
+  "miniCart": {
+    "title": "Your cart",
+    "cartCount": "{{count}} item in your cart",
+    "cartCount_plural": "{{count}} items in your cart",
+    "checkout": "Proceed to checkout",
+    "editCart": "Edit cart",
+    "doneEditing": "Done editing",
+    "remove": "Remove"
+  },
+  "signIn": {
+    "doNotHaveAnAccountP1": "Sign into your account using your credentials. If you don’t have an account you can also ",
+    "doNotHAveAnAccountLink": "create a new account",
+    "doNotHaveAnAccountP2": ".",
+    "forgotPasswordP1": "Forgot your password?",
+    "forgotPasswordLink": "Forgot your password?",
+    "forgotPasswordP2": " to reset."
+  },
+  "price": {
+    "free": "Free"
+  },
+  "alert": {
+    "hide": "Hide message"
+  },
+  "payment": {
+    "redirect": {
+      "default": "You will be redirected to finalize your order and pay.",
+      "paypal": "You will be redirected to PayPal finalize your order.",
+      "klarna": {
+        "payLater": "You will be redirected to Klarna Pay Later to finalize your order."
+      },
+      "giftcard": "After adding your giftcard details you will be redirected to finalize your order."
+    },
+    "giftcard": {
+      "number": "Giftcard Number",
+      "pin": "Giftcard Pin",
+      "note": "If you have a pin on your giftcard then we'll need it to make the payment."
+    },
+    "issuer": "Issuer"
+  },
+  "order": {
+    "status_paymentIncomplete": "incomplete payment",
+    "status_paymentPending": "pending payment",
+    "status_paymentFailed": "failed payment",
+    "status_paymentCanceled": "canceled payment",
+    "status_paymentDisputed": "payment disputed",
+    "status_fulfillmentPending": "awaiting fulfillment",
+    "status_declined": "declined",
+    "status_cancelled": "cancelled",
+    "status_manualVerificationRequired": "verification required",
+    "status_shipmentPending": "awaiting shipment",
+    "status_shippedPartially": "partially shipped",
+    "status_shippedFully": "shipped",
+    "status_pickupAwaiting": "awaiting pickup",
+    "status_completed": "completed",
+    "status_refundedPartially": "partially refunded",
+    "status_refundedFully": "refunded"
+  },
+  "search": {
+    "titleWithTerm": "Search results for: {{term}}",
+    "titleWithoutTerm": "Search",
+    "placeholder": "Search for products"
+  }
+}

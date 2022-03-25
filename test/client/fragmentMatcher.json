@@ -1,0 +1,90 @@
+{
+  "__schema": {
+    "types": [
+      {
+        "kind": "INTERFACE",
+        "name": "ProductOption",
+        "possibleTypes": [
+          {
+            "name": "ProductDropdownOption"
+          },
+          {
+            "name": "ProductCheckboxOption"
+          },
+          {
+            "name": "ProductRadioOption"
+          },
+          {
+            "name": "ProductRectangleOption"
+          },
+          {
+            "name": "ProductSwatchOption"
+          },
+          {
+            "name": "ProductPickListOption"
+          },
+          {
+            "name": "ProductTextOption"
+          },
+          {
+            "name": "ProductNumberOption"
+          },
+          {
+            "name": "ProductDateOption"
+          },
+          {
+            "name": "ProductTextAreaOption"
+          },
+          {
+            "name": "ProductFileOption"
+          }
+        ]
+      },
+      {
+        "kind": "UNION",
+        "name": "SearchItem",
+        "possibleTypes": [
+          {
+            "name": "Product"
+          }
+        ]
+      },
+      {
+        "kind": "UNION",
+        "name": "PlaceOrderResult",
+        "possibleTypes": [
+          {
+            "name": "Order"
+          },
+          {
+            "name": "PlaceOrder3dSecureResult"
+          }
+        ]
+      },
+      {
+        "kind": "INTERFACE",
+        "name": "ProductOptionValue",
+        "possibleTypes": [
+          {
+            "name": "ProductDropdownOptionValue"
+          },
+          {
+            "name": "ProductCheckboxOptionValue"
+          },
+          {
+            "name": "ProductRadioOptionValue"
+          },
+          {
+            "name": "ProductRectangleOptionValue"
+          },
+          {
+            "name": "ProductSwatchOptionValue"
+          },
+          {
+            "name": "ProductPickListOptionValue"
+          }
+        ]
+      }
+    ]
+  }
+}
