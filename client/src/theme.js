@@ -34,13 +34,13 @@ const inputStyling = {
 
 export const deityGreenTheme = createTheme({
   colors: {
-    primary: '#222222',
-    primaryLight: '#95c110',
-    black: '#000000',
-    error: '#EB5757',
-    warning: '#F2994A',
-    success: '#4AAE4E',
-    info: '#176FF2'
+    primary: '#fff',
+    primaryLight: '#fff',
+    black: '#fff',
+    error: '#fff',
+    warning: '#fff',
+    success: '#fff',
+    info: '#fff'
   },
 
   fontWeights: {
