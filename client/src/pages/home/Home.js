@@ -8,6 +8,7 @@ const Home = () => (
   <PageLayout>
     <H1 css={{ textAlign: 'center' }}>
       <T id="home.hotSellers" />
+      Test
     </H1>
     <HomeProducts />
   </PageLayout>
