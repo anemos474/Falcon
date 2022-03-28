@@ -1,0 +1,1887 @@
+{
+  "errors": [],
+  "warnings": [
+    "./node_modules/apollo3-cache-persist/lib/storageWrappers/AsyncStorageWrapper.js\nModule Warning (from ./node_modules/source-map-loader/index.js):\n(Emitted value instead of an instance of Error) Cannot find source file '../../src/storageWrappers/AsyncStorageWrapper.ts': Error: Can't resolve '../../src/storageWrappers/AsyncStorageWrapper.ts' in 'C:\\Users\\anemo\\OneDrive\\Desktop\\Falcon\\testing\\client\\node_modules\\apollo3-cache-persist\\lib\\storageWrappers'\n @ ./node_modules/apollo3-cache-persist/lib/storageWrappers/index.js 1:0-38 1:0-38\n @ ./node_modules/apollo3-cache-persist/lib/index.js\n @ ./node_modules/@deity/falcon-client/src/apolloClient/ApolloClientWeb.js\n @ ./node_modules/@deity/falcon-client/src/client.js\n @ multi ./node_modules/@deity/falcon-client/build-utils/polyfills.js ./node_modules/pwacompat/pwacompat.min.js ./node_modules/@deity/falcon-client/src/client ./node_modules/@deity/falcon-client/build-utils/webpack/webpackHotDevClient.js",
+    "./node_modules/apollo3-cache-persist/lib/storageWrappers/IonicStorageWrapper.js\nModule Warning (from ./node_modules/source-map-loader/index.js):\n(Emitted value instead of an instance of Error) Cannot find source file '../../src/storageWrappers/IonicStorageWrapper.ts': Error: Can't resolve '../../src/storageWrappers/IonicStorageWrapper.ts' in 'C:\\Users\\anemo\\OneDrive\\Desktop\\Falcon\\testing\\client\\node_modules\\apollo3-cache-persist\\lib\\storageWrappers'\n @ ./node_modules/apollo3-cache-persist/lib/storageWrappers/index.js 2:0-38 2:0-38\n @ ./node_modules/apollo3-cache-persist/lib/index.js\n @ ./node_modules/@deity/falcon-client/src/apolloClient/ApolloClientWeb.js\n @ ./node_modules/@deity/falcon-client/src/client.js\n @ multi ./node_modules/@deity/falcon-client/build-utils/polyfills.js ./node_modules/pwacompat/pwacompat.min.js ./node_modules/@deity/falcon-client/src/client ./node_modules/@deity/falcon-client/build-utils/webpack/webpackHotDevClient.js",
+    "./node_modules/apollo3-cache-persist/lib/storageWrappers/LocalForageWrapper.js\nModule Warning (from ./node_modules/source-map-loader/index.js):\n(Emitted value instead of an instance of Error) Cannot find source file '../../src/storageWrappers/LocalForageWrapper.ts': Error: Can't resolve '../../src/storageWrappers/LocalForageWrapper.ts' in 'C:\\Users\\anemo\\OneDrive\\Desktop\\Falcon\\testing\\client\\node_modules\\apollo3-cache-persist\\lib\\storageWrappers'\n @ ./node_modules/apollo3-cache-persist/lib/storageWrappers/index.js 3:0-37 3:0-37\n @ ./node_modules/apollo3-cache-persist/lib/index.js\n @ ./node_modules/@deity/falcon-client/src/apolloClient/ApolloClientWeb.js\n @ ./node_modules/@deity/falcon-client/src/client.js\n @ multi ./node_modules/@deity/falcon-client/build-utils/polyfills.js ./node_modules/pwacompat/pwacompat.min.js ./node_modules/@deity/falcon-client/src/client ./node_modules/@deity/falcon-client/build-utils/webpack/webpackHotDevClient.js",
+    "./node_modules/apollo3-cache-persist/lib/storageWrappers/LocalStorageWrapper.js\nModule Warning (from ./node_modules/source-map-loader/index.js):\n(Emitted value instead of an instance of Error) Cannot find source file '../../src/storageWrappers/LocalStorageWrapper.ts': Error: Can't resolve '../../src/storageWrappers/LocalStorageWrapper.ts' in 'C:\\Users\\anemo\\OneDrive\\Desktop\\Falcon\\testing\\client\\node_modules\\apollo3-cache-persist\\lib\\storageWrappers'\n @ ./node_modules/apollo3-cache-persist/lib/storageWrappers/index.js 4:0-38 4:0-38\n @ ./node_modules/apollo3-cache-persist/lib/index.js\n @ ./node_modules/@deity/falcon-client/src/apolloClient/ApolloClientWeb.js\n @ ./node_modules/@deity/falcon-client/src/client.js\n @ multi ./node_modules/@deity/falcon-client/build-utils/polyfills.js ./node_modules/pwacompat/pwacompat.min.js ./node_modules/@deity/falcon-client/src/client ./node_modules/@deity/falcon-client/build-utils/webpack/webpackHotDevClient.js",
+    "./node_modules/apollo3-cache-persist/lib/storageWrappers/MMKVStorageWrapper.js\nModule Warning (from ./node_modules/source-map-loader/index.js):\n(Emitted value instead of an instance of Error) Cannot find source file '../../src/storageWrappers/MMKVStorageWrapper.ts': Error: Can't resolve '../../src/storageWrappers/MMKVStorageWrapper.ts' in 'C:\\Users\\anemo\\OneDrive\\Desktop\\Falcon\\testing\\client\\node_modules\\apollo3-cache-persist\\lib\\storageWrappers'\n @ ./node_modules/apollo3-cache-persist/lib/storageWrappers/index.js 5:0-37 5:0-37\n @ ./node_modules/apollo3-cache-persist/lib/index.js\n @ ./node_modules/@deity/falcon-client/src/apolloClient/ApolloClientWeb.js\n @ ./node_modules/@deity/falcon-client/src/client.js\n @ multi ./node_modules/@deity/falcon-client/build-utils/polyfills.js ./node_modules/pwacompat/pwacompat.min.js ./node_modules/@deity/falcon-client/src/client ./node_modules/@deity/falcon-client/build-utils/webpack/webpackHotDevClient.js",
+    "./node_modules/apollo3-cache-persist/lib/storageWrappers/SessionStorageWrapper.js\nModule Warning (from ./node_modules/source-map-loader/index.js):\n(Emitted value instead of an instance of Error) Cannot find source file '../../src/storageWrappers/SessionStorageWrapper.ts': Error: Can't resolve '../../src/storageWrappers/SessionStorageWrapper.ts' in 'C:\\Users\\anemo\\OneDrive\\Desktop\\Falcon\\testing\\client\\node_modules\\apollo3-cache-persist\\lib\\storageWrappers'\n @ ./node_modules/apollo3-cache-persist/lib/storageWrappers/index.js 6:0-40 6:0-40\n @ ./node_modules/apollo3-cache-persist/lib/index.js\n @ ./node_modules/@deity/falcon-client/src/apolloClient/ApolloClientWeb.js\n @ ./node_modules/@deity/falcon-client/src/client.js\n @ multi ./node_modules/@deity/falcon-client/build-utils/polyfills.js ./node_modules/pwacompat/pwacompat.min.js ./node_modules/@deity/falcon-client/src/client ./node_modules/@deity/falcon-client/build-utils/webpack/webpackHotDevClient.js",
+    "./node_modules/apollo3-cache-persist/lib/storageWrappers/index.js\nModule Warning (from ./node_modules/source-map-loader/index.js):\n(Emitted value instead of an instance of Error) Cannot find source file '../../src/storageWrappers/index.ts': Error: Can't resolve '../../src/storageWrappers/index.ts' in 'C:\\Users\\anemo\\OneDrive\\Desktop\\Falcon\\testing\\client\\node_modules\\apollo3-cache-persist\\lib\\storageWrappers'\n @ ./node_modules/apollo3-cache-persist/lib/index.js 4:0-40 4:0-40\n @ ./node_modules/@deity/falcon-client/src/apolloClient/ApolloClientWeb.js\n @ ./node_modules/@deity/falcon-client/src/client.js\n @ multi ./node_modules/@deity/falcon-client/build-utils/polyfills.js ./node_modules/pwacompat/pwacompat.min.js ./node_modules/@deity/falcon-client/src/client ./node_modules/@deity/falcon-client/build-utils/webpack/webpackHotDevClient.js",
+    "./node_modules/apollo3-cache-persist/lib/Cache.js\nModule Warning (from ./node_modules/source-map-loader/index.js):\n(Emitted value instead of an instance of Error) Cannot find source file '../src/Cache.ts': Error: Can't resolve '../src/Cache.ts' in 'C:\\Users\\anemo\\OneDrive\\Desktop\\Falcon\\testing\\client\\node_modules\\apollo3-cache-persist\\lib'\n @ ./node_modules/apollo3-cache-persist/lib/CachePersistor.js 2:0-28 17:24-29\n @ ./node_modules/apollo3-cache-persist/lib/index.js\n @ ./node_modules/@deity/falcon-client/src/apolloClient/ApolloClientWeb.js\n @ ./node_modules/@deity/falcon-client/src/client.js\n @ multi ./node_modules/@deity/falcon-client/build-utils/polyfills.js ./node_modules/pwacompat/pwacompat.min.js ./node_modules/@deity/falcon-client/src/client ./node_modules/@deity/falcon-client/build-utils/webpack/webpackHotDevClient.js",
+    "./node_modules/apollo3-cache-persist/lib/CachePersistor.js\nModule Warning (from ./node_modules/source-map-loader/index.js):\n(Emitted value instead of an instance of Error) Cannot find source file '../src/CachePersistor.ts': Error: Can't resolve '../src/CachePersistor.ts' in 'C:\\Users\\anemo\\OneDrive\\Desktop\\Falcon\\testing\\client\\node_modules\\apollo3-cache-persist\\lib'\n @ ./node_modules/apollo3-cache-persist/lib/index.js 1:0-61 1:0-61\n @ ./node_modules/@deity/falcon-client/src/apolloClient/ApolloClientWeb.js\n @ ./node_modules/@deity/falcon-client/src/client.js\n @ multi ./node_modules/@deity/falcon-client/build-utils/polyfills.js ./node_modules/pwacompat/pwacompat.min.js ./node_modules/@deity/falcon-client/src/client ./node_modules/@deity/falcon-client/build-utils/webpack/webpackHotDevClient.js",
+    "./node_modules/apollo3-cache-persist/lib/Log.js\nModule Warning (from ./node_modules/source-map-loader/index.js):\n(Emitted value instead of an instance of Error) Cannot find source file '../src/Log.ts': Error: Can't resolve '../src/Log.ts' in 'C:\\Users\\anemo\\OneDrive\\Desktop\\Falcon\\testing\\client\\node_modules\\apollo3-cache-persist\\lib'\n @ ./node_modules/apollo3-cache-persist/lib/CachePersistor.js 1:0-24 16:22-25\n @ ./node_modules/apollo3-cache-persist/lib/index.js\n @ ./node_modules/@deity/falcon-client/src/apolloClient/ApolloClientWeb.js\n @ ./node_modules/@deity/falcon-client/src/client.js\n @ multi ./node_modules/@deity/falcon-client/build-utils/polyfills.js ./node_modules/pwacompat/pwacompat.min.js ./node_modules/@deity/falcon-client/src/client ./node_modules/@deity/falcon-client/build-utils/webpack/webpackHotDevClient.js",
+    "./node_modules/apollo3-cache-persist/lib/Persistor.js\nModule Warning (from ./node_modules/source-map-loader/index.js):\n(Emitted value instead of an instance of Error) Cannot find source file '../src/Persistor.ts': Error: Can't resolve '../src/Persistor.ts' in 'C:\\Users\\anemo\\OneDrive\\Desktop\\Falcon\\testing\\client\\node_modules\\apollo3-cache-persist\\lib'\n @ ./node_modules/apollo3-cache-persist/lib/persistCacheSync.js 15:0-36 45:2-11\n @ ./node_modules/apollo3-cache-persist/lib/index.js\n @ ./node_modules/@deity/falcon-client/src/apolloClient/ApolloClientWeb.js\n @ ./node_modules/@deity/falcon-client/src/client.js\n @ multi ./node_modules/@deity/falcon-client/build-utils/polyfills.js ./node_modules/pwacompat/pwacompat.min.js ./node_modules/@deity/falcon-client/src/client ./node_modules/@deity/falcon-client/build-utils/webpack/webpackHotDevClient.js",
+    "./node_modules/apollo3-cache-persist/lib/Storage.js\nModule Warning (from ./node_modules/source-map-loader/index.js):\n(Emitted value instead of an instance of Error) Cannot find source file '../src/Storage.ts': Error: Can't resolve '../src/Storage.ts' in 'C:\\Users\\anemo\\OneDrive\\Desktop\\Falcon\\testing\\client\\node_modules\\apollo3-cache-persist\\lib'\n @ ./node_modules/apollo3-cache-persist/lib/persistCacheSync.js 16:0-32 56:2-9\n @ ./node_modules/apollo3-cache-persist/lib/index.js\n @ ./node_modules/@deity/falcon-client/src/apolloClient/ApolloClientWeb.js\n @ ./node_modules/@deity/falcon-client/src/client.js\n @ multi ./node_modules/@deity/falcon-client/build-utils/polyfills.js ./node_modules/pwacompat/pwacompat.min.js ./node_modules/@deity/falcon-client/src/client ./node_modules/@deity/falcon-client/build-utils/webpack/webpackHotDevClient.js",
+    "./node_modules/apollo3-cache-persist/lib/Trigger.js\nModule Warning (from ./node_modules/source-map-loader/index.js):\n(Emitted value instead of an instance of Error) Cannot find source file '../src/Trigger.ts': Error: Can't resolve '../src/Trigger.ts' in 'C:\\Users\\anemo\\OneDrive\\Desktop\\Falcon\\testing\\client\\node_modules\\apollo3-cache-persist\\lib'\n @ ./node_modules/apollo3-cache-persist/lib/CachePersistor.js 5:0-32 20:26-33\n @ ./node_modules/apollo3-cache-persist/lib/index.js\n @ ./node_modules/@deity/falcon-client/src/apolloClient/ApolloClientWeb.js\n @ ./node_modules/@deity/falcon-client/src/client.js\n @ multi ./node_modules/@deity/falcon-client/build-utils/polyfills.js ./node_modules/pwacompat/pwacompat.min.js ./node_modules/@deity/falcon-client/src/client ./node_modules/@deity/falcon-client/build-utils/webpack/webpackHotDevClient.js",
+    "./node_modules/apollo3-cache-persist/lib/index.js\nModule Warning (from ./node_modules/source-map-loader/index.js):\n(Emitted value instead of an instance of Error) Cannot find source file '../src/index.ts': Error: Can't resolve '../src/index.ts' in 'C:\\Users\\anemo\\OneDrive\\Desktop\\Falcon\\testing\\client\\node_modules\\apollo3-cache-persist\\lib'\n @ ./node_modules/@deity/falcon-client/src/apolloClient/ApolloClientWeb.js 18:0-76 43:29-43 45:17-36\n @ ./node_modules/@deity/falcon-client/src/client.js\n @ multi ./node_modules/@deity/falcon-client/build-utils/polyfills.js ./node_modules/pwacompat/pwacompat.min.js ./node_modules/@deity/falcon-client/src/client ./node_modules/@deity/falcon-client/build-utils/webpack/webpackHotDevClient.js",
+    "./node_modules/apollo3-cache-persist/lib/onAppBackground.js\nModule Warning (from ./node_modules/source-map-loader/index.js):\n(Emitted value instead of an instance of Error) Cannot find source file '../src/onAppBackground.ts': Error: Can't resolve '../src/onAppBackground.ts' in 'C:\\Users\\anemo\\OneDrive\\Desktop\\Falcon\\testing\\client\\node_modules\\apollo3-cache-persist\\lib'\n @ ./node_modules/apollo3-cache-persist/lib/Trigger.js 2:0-48 40:33-48\n @ ./node_modules/apollo3-cache-persist/lib/CachePersistor.js\n @ ./node_modules/apollo3-cache-persist/lib/index.js\n @ ./node_modules/@deity/falcon-client/src/apolloClient/ApolloClientWeb.js\n @ ./node_modules/@deity/falcon-client/src/client.js\n @ multi ./node_modules/@deity/falcon-client/build-utils/polyfills.js ./node_modules/pwacompat/pwacompat.min.js ./node_modules/@deity/falcon-client/src/client ./node_modules/@deity/falcon-client/build-utils/webpack/webpackHotDevClient.js",
+    "./node_modules/apollo3-cache-persist/lib/onCacheWrite.js\nModule Warning (from ./node_modules/source-map-loader/index.js):\n(Emitted value instead of an instance of Error) Cannot find source file '../src/onCacheWrite.ts': Error: Can't resolve '../src/onCacheWrite.ts' in 'C:\\Users\\anemo\\OneDrive\\Desktop\\Falcon\\testing\\client\\node_modules\\apollo3-cache-persist\\lib'\n @ ./node_modules/apollo3-cache-persist/lib/Trigger.js 1:0-42 33:33-45\n @ ./node_modules/apollo3-cache-persist/lib/CachePersistor.js\n @ ./node_modules/apollo3-cache-persist/lib/index.js\n @ ./node_modules/@deity/falcon-client/src/apolloClient/ApolloClientWeb.js\n @ ./node_modules/@deity/falcon-client/src/client.js\n @ multi ./node_modules/@deity/falcon-client/build-utils/polyfills.js ./node_modules/pwacompat/pwacompat.min.js ./node_modules/@deity/falcon-client/src/client ./node_modules/@deity/falcon-client/build-utils/webpack/webpackHotDevClient.js",
+    "./node_modules/apollo3-cache-persist/lib/persistCache.js\nModule Warning (from ./node_modules/source-map-loader/index.js):\n(Emitted value instead of an instance of Error) Cannot find source file '../src/persistCache.ts': Error: Can't resolve '../src/persistCache.ts' in 'C:\\Users\\anemo\\OneDrive\\Desktop\\Falcon\\testing\\client\\node_modules\\apollo3-cache-persist\\lib'\n @ ./node_modules/apollo3-cache-persist/lib/index.js 2:0-57 2:0-57\n @ ./node_modules/@deity/falcon-client/src/apolloClient/ApolloClientWeb.js\n @ ./node_modules/@deity/falcon-client/src/client.js\n @ multi ./node_modules/@deity/falcon-client/build-utils/polyfills.js ./node_modules/pwacompat/pwacompat.min.js ./node_modules/@deity/falcon-client/src/client ./node_modules/@deity/falcon-client/build-utils/webpack/webpackHotDevClient.js",
+    "./node_modules/apollo3-cache-persist/lib/persistCacheSync.js\nModule Warning (from ./node_modules/source-map-loader/index.js):\n(Emitted value instead of an instance of Error) Cannot find source file '../src/persistCacheSync.ts': Error: Can't resolve '../src/persistCacheSync.ts' in 'C:\\Users\\anemo\\OneDrive\\Desktop\\Falcon\\testing\\client\\node_modules\\apollo3-cache-persist\\lib'\n @ ./node_modules/apollo3-cache-persist/lib/index.js 3:0-35 3:0-35\n @ ./node_modules/@deity/falcon-client/src/apolloClient/ApolloClientWeb.js\n @ ./node_modules/@deity/falcon-client/src/client.js\n @ multi ./node_modules/@deity/falcon-client/build-utils/polyfills.js ./node_modules/pwacompat/pwacompat.min.js ./node_modules/@deity/falcon-client/src/client ./node_modules/@deity/falcon-client/build-utils/webpack/webpackHotDevClient.js"
+  ],
+  "version": "4.41.5",
+  "hash": "47db0f4cdc32d68e56e9",
+  "publicPath": "http://localhost:3001/",
+  "outputPath": "C:\\Users\\anemo\\OneDrive\\Desktop\\Falcon\\testing\\client\\build\\public",
+  "assetsByChunkName": {
+    "account/account": [
+      "static/js/account/account.chunk.js",
+      "static/js/account/account.chunk.js.map"
+    ],
+    "account/account-shop/cart-shop/checkout": [
+      "static/js/account/account-shop/cart-shop/checkout.chunk.js",
+      "static/js/account/account-shop/cart-shop/checkout.chunk.js.map"
+    ],
+    "account/sign-in": [
+      "static/js/account/sign-in.chunk.js",
+      "static/js/account/sign-in.chunk.js.map"
+    ],
+    "blog/blog": [
+      "static/js/blog/blog.chunk.js",
+      "static/js/blog/blog.chunk.js.map"
+    ],
+    "blog/post": [
+      "static/js/blog/post.chunk.js",
+      "static/js/blog/post.chunk.js.map"
+    ],
+    "client": [
+      "static/js/client.js",
+      "static/js/client.js.map"
+    ],
+    "components-payments-Adyen": [
+      "static/js/components-payments-Adyen.chunk.js",
+      "static/js/components-payments-Adyen.chunk.js.map"
+    ],
+    "components-payments-Magento-PayPal": [
+      "static/js/components-payments-Magento-PayPal.chunk.js",
+      "static/js/components-payments-Magento-PayPal.chunk.js.map"
+    ],
+    "components-payments-Mollie-CreditCard": [
+      "static/js/components-payments-Mollie-CreditCard.chunk.js",
+      "static/js/components-payments-Mollie-CreditCard.chunk.js.map"
+    ],
+    "components-payments-Mollie-Default": [
+      "static/js/components-payments-Mollie-Default.chunk.js",
+      "static/js/components-payments-Mollie-Default.chunk.js.map"
+    ],
+    "components-payments-Mollie-Giftcard": [
+      "static/js/components-payments-Mollie-Giftcard.chunk.js",
+      "static/js/components-payments-Mollie-Giftcard.chunk.js.map"
+    ],
+    "components-payments-Mollie-Ideal": [
+      "static/js/components-payments-Mollie-Ideal.chunk.js",
+      "static/js/components-payments-Mollie-Ideal.chunk.js.map"
+    ],
+    "components-payments-Mollie-IssuerSelection": [
+      "static/js/components-payments-Mollie-IssuerSelection.chunk.js",
+      "static/js/components-payments-Mollie-IssuerSelection.chunk.js.map"
+    ],
+    "components-payments-Mollie-KBC": [
+      "static/js/components-payments-Mollie-KBC.chunk.js",
+      "static/js/components-payments-Mollie-KBC.chunk.js.map"
+    ],
+    "components-payments-Mollie-KlarnaPayLater": [
+      "static/js/components-payments-Mollie-KlarnaPayLater.chunk.js",
+      "static/js/components-payments-Mollie-KlarnaPayLater.chunk.js.map"
+    ],
+    "components-payments-Mollie-PayPal": [
+      "static/js/components-payments-Mollie-PayPal.chunk.js",
+      "static/js/components-payments-Mollie-PayPal.chunk.js.map"
+    ],
+    "components-payments-SimplePayment": [
+      "static/js/components-payments-SimplePayment.chunk.js",
+      "static/js/components-payments-SimplePayment.chunk.js.map"
+    ],
+    "components-payments-Stripe": [
+      "static/js/components-payments-Stripe.chunk.js",
+      "static/js/components-payments-Stripe.chunk.js.map"
+    ],
+    "home/home": [
+      "static/js/home/home.chunk.js",
+      "static/js/home/home.chunk.js.map"
+    ],
+    "i18n/en-GB-translations": [
+      "static/js/i18n/en-GB-translations.chunk.js",
+      "static/js/i18n/en-GB-translations.chunk.js.map"
+    ],
+    "i18n/en-US-translations": [
+      "static/js/i18n/en-US-translations.chunk.js",
+      "static/js/i18n/en-US-translations.chunk.js.map"
+    ],
+    "i18n/en-translations": [
+      "static/js/i18n/en-translations.chunk.js",
+      "static/js/i18n/en-translations.chunk.js.map"
+    ],
+    "i18n/nl-NL-translations": [
+      "static/js/i18n/nl-NL-translations.chunk.js",
+      "static/js/i18n/nl-NL-translations.chunk.js.map"
+    ],
+    "polyfills": [
+      "static/js/polyfills.chunk.js",
+      "static/js/polyfills.chunk.js.map"
+    ],
+    "shop/cart": [
+      "static/js/shop/cart.chunk.js",
+      "static/js/shop/cart.chunk.js.map"
+    ],
+    "shop/category": [
+      "static/js/shop/category.chunk.js",
+      "static/js/shop/category.chunk.js.map"
+    ],
+    "shop/checkout": [
+      "static/js/shop/checkout.chunk.js",
+      "static/js/shop/checkout.chunk.js.map"
+    ],
+    "shop/product": [
+      "static/js/shop/product.chunk.js",
+      "static/js/shop/product.chunk.js.map"
+    ],
+    "shop/reset-password": [
+      "static/js/shop/reset-password.chunk.js",
+      "static/js/shop/reset-password.chunk.js.map"
+    ],
+    "shop/search": [
+      "static/js/shop/search.chunk.js",
+      "static/js/shop/search.chunk.js.map"
+    ],
+    "shop/sidebar": [
+      "static/js/shop/sidebar.chunk.js",
+      "static/js/shop/sidebar.chunk.js.map"
+    ],
+    "vendors": [
+      "static/js/vendors.chunk.js",
+      "static/js/vendors.chunk.js.map"
+    ],
+    "vendors-blog/blog-blog/post": [
+      "static/js/vendors-blog/blog-blog/post.chunk.js",
+      "static/js/vendors-blog/blog-blog/post.chunk.js.map"
+    ],
+    "vendors-client": [
+      "static/js/vendors-client.chunk.js",
+      "static/js/vendors-client.chunk.js.map"
+    ],
+    "vendors-components-payments-Adyen": [
+      "static/js/vendors-components-payments-Adyen.chunk.js",
+      "static/js/vendors-components-payments-Adyen.chunk.js.map"
+    ],
+    "vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5": [
+      "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js",
+      "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js.map"
+    ],
+    "vendors-components-payments-Stripe": [
+      "static/js/vendors-components-payments-Stripe.chunk.js",
+      "static/js/vendors-components-payments-Stripe.chunk.js.map"
+    ],
+    "vendors-shop/category-shop/reset-password": [
+      "static/js/vendors-shop/category-shop/reset-password.chunk.js",
+      "static/js/vendors-shop/category-shop/reset-password.chunk.js.map"
+    ]
+  },
+  "assets": [
+    {
+      "name": "static/js/account/account-shop/cart-shop/checkout.chunk.js",
+      "size": 101587,
+      "chunks": [
+        "account/account-shop/cart-shop/checkout"
+      ],
+      "chunkNames": [
+        "account/account-shop/cart-shop/checkout"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/account/account-shop/cart-shop/checkout.chunk.js.map",
+      "size": 63162,
+      "chunks": [
+        "account/account-shop/cart-shop/checkout"
+      ],
+      "chunkNames": [
+        "account/account-shop/cart-shop/checkout"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/account/account.chunk.js",
+      "size": 107323,
+      "chunks": [
+        "account/account"
+      ],
+      "chunkNames": [
+        "account/account"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/account/account.chunk.js.map",
+      "size": 49399,
+      "chunks": [
+        "account/account"
+      ],
+      "chunkNames": [
+        "account/account"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/account/sign-in.chunk.js",
+      "size": 6000,
+      "chunks": [
+        "account/sign-in"
+      ],
+      "chunkNames": [
+        "account/sign-in"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/account/sign-in.chunk.js.map",
+      "size": 2483,
+      "chunks": [
+        "account/sign-in"
+      ],
+      "chunkNames": [
+        "account/sign-in"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/blog/blog.chunk.js",
+      "size": 8848,
+      "chunks": [
+        "blog/blog"
+      ],
+      "chunkNames": [
+        "blog/blog"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/blog/blog.chunk.js.map",
+      "size": 4875,
+      "chunks": [
+        "blog/blog"
+      ],
+      "chunkNames": [
+        "blog/blog"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/blog/post.chunk.js",
+      "size": 12040,
+      "chunks": [
+        "blog/post"
+      ],
+      "chunkNames": [
+        "blog/post"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/blog/post.chunk.js.map",
+      "size": 4477,
+      "chunks": [
+        "blog/post"
+      ],
+      "chunkNames": [
+        "blog/post"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/client.js",
+      "size": 202938,
+      "chunks": [
+        "client"
+      ],
+      "chunkNames": [
+        "client"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/client.js.map",
+      "size": 121076,
+      "chunks": [
+        "client"
+      ],
+      "chunkNames": [
+        "client"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Adyen.chunk.js",
+      "size": 7079,
+      "chunks": [
+        "components-payments-Adyen"
+      ],
+      "chunkNames": [
+        "components-payments-Adyen"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Adyen.chunk.js.map",
+      "size": 2735,
+      "chunks": [
+        "components-payments-Adyen"
+      ],
+      "chunkNames": [
+        "components-payments-Adyen"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Magento-PayPal.chunk.js",
+      "size": 8954,
+      "chunks": [
+        "components-payments-Magento-PayPal"
+      ],
+      "chunkNames": [
+        "components-payments-Magento-PayPal"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Magento-PayPal.chunk.js.map",
+      "size": 1884,
+      "chunks": [
+        "components-payments-Magento-PayPal"
+      ],
+      "chunkNames": [
+        "components-payments-Magento-PayPal"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Mollie-CreditCard.chunk.js",
+      "size": 14767,
+      "chunks": [
+        "components-payments-Mollie-CreditCard"
+      ],
+      "chunkNames": [
+        "components-payments-Mollie-CreditCard"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Mollie-CreditCard.chunk.js.map",
+      "size": 13063,
+      "chunks": [
+        "components-payments-Mollie-CreditCard"
+      ],
+      "chunkNames": [
+        "components-payments-Mollie-CreditCard"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Mollie-Default.chunk.js",
+      "size": 4146,
+      "chunks": [
+        "components-payments-Mollie-Default"
+      ],
+      "chunkNames": [
+        "components-payments-Mollie-Default"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Mollie-Default.chunk.js.map",
+      "size": 1653,
+      "chunks": [
+        "components-payments-Mollie-Default"
+      ],
+      "chunkNames": [
+        "components-payments-Mollie-Default"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Mollie-Giftcard.chunk.js",
+      "size": 14224,
+      "chunks": [
+        "components-payments-Mollie-Giftcard"
+      ],
+      "chunkNames": [
+        "components-payments-Mollie-Giftcard"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Mollie-Giftcard.chunk.js.map",
+      "size": 9385,
+      "chunks": [
+        "components-payments-Mollie-Giftcard"
+      ],
+      "chunkNames": [
+        "components-payments-Mollie-Giftcard"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Mollie-Ideal.chunk.js",
+      "size": 12534,
+      "chunks": [
+        "components-payments-Mollie-Ideal"
+      ],
+      "chunkNames": [
+        "components-payments-Mollie-Ideal"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Mollie-Ideal.chunk.js.map",
+      "size": 6769,
+      "chunks": [
+        "components-payments-Mollie-Ideal"
+      ],
+      "chunkNames": [
+        "components-payments-Mollie-Ideal"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Mollie-IssuerSelection.chunk.js",
+      "size": 9727,
+      "chunks": [
+        "components-payments-Mollie-IssuerSelection"
+      ],
+      "chunkNames": [
+        "components-payments-Mollie-IssuerSelection"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Mollie-IssuerSelection.chunk.js.map",
+      "size": 6198,
+      "chunks": [
+        "components-payments-Mollie-IssuerSelection"
+      ],
+      "chunkNames": [
+        "components-payments-Mollie-IssuerSelection"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Mollie-KBC.chunk.js",
+      "size": 12516,
+      "chunks": [
+        "components-payments-Mollie-KBC"
+      ],
+      "chunkNames": [
+        "components-payments-Mollie-KBC"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Mollie-KBC.chunk.js.map",
+      "size": 6771,
+      "chunks": [
+        "components-payments-Mollie-KBC"
+      ],
+      "chunkNames": [
+        "components-payments-Mollie-KBC"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Mollie-KlarnaPayLater.chunk.js",
+      "size": 6215,
+      "chunks": [
+        "components-payments-Mollie-KlarnaPayLater"
+      ],
+      "chunkNames": [
+        "components-payments-Mollie-KlarnaPayLater"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Mollie-KlarnaPayLater.chunk.js.map",
+      "size": 1901,
+      "chunks": [
+        "components-payments-Mollie-KlarnaPayLater"
+      ],
+      "chunkNames": [
+        "components-payments-Mollie-KlarnaPayLater"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Mollie-PayPal.chunk.js",
+      "size": 8945,
+      "chunks": [
+        "components-payments-Mollie-PayPal"
+      ],
+      "chunkNames": [
+        "components-payments-Mollie-PayPal"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Mollie-PayPal.chunk.js.map",
+      "size": 1882,
+      "chunks": [
+        "components-payments-Mollie-PayPal"
+      ],
+      "chunkNames": [
+        "components-payments-Mollie-PayPal"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-SimplePayment.chunk.js",
+      "size": 2682,
+      "chunks": [
+        "components-payments-SimplePayment"
+      ],
+      "chunkNames": [
+        "components-payments-SimplePayment"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-SimplePayment.chunk.js.map",
+      "size": 1021,
+      "chunks": [
+        "components-payments-SimplePayment"
+      ],
+      "chunkNames": [
+        "components-payments-SimplePayment"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Stripe.chunk.js",
+      "size": 5522,
+      "chunks": [
+        "components-payments-Stripe"
+      ],
+      "chunkNames": [
+        "components-payments-Stripe"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/components-payments-Stripe.chunk.js.map",
+      "size": 3368,
+      "chunks": [
+        "components-payments-Stripe"
+      ],
+      "chunkNames": [
+        "components-payments-Stripe"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/home/home.chunk.js",
+      "size": 8585,
+      "chunks": [
+        "home/home"
+      ],
+      "chunkNames": [
+        "home/home"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/home/home.chunk.js.map",
+      "size": 2577,
+      "chunks": [
+        "home/home"
+      ],
+      "chunkNames": [
+        "home/home"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/i18n/en-GB-translations.chunk.js",
+      "size": 526,
+      "chunks": [
+        "i18n/en-GB-translations"
+      ],
+      "chunkNames": [
+        "i18n/en-GB-translations"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/i18n/en-GB-translations.chunk.js.map",
+      "size": 119,
+      "chunks": [
+        "i18n/en-GB-translations"
+      ],
+      "chunkNames": [
+        "i18n/en-GB-translations"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/i18n/en-US-translations.chunk.js",
+      "size": 526,
+      "chunks": [
+        "i18n/en-US-translations"
+      ],
+      "chunkNames": [
+        "i18n/en-US-translations"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/i18n/en-US-translations.chunk.js.map",
+      "size": 119,
+      "chunks": [
+        "i18n/en-US-translations"
+      ],
+      "chunkNames": [
+        "i18n/en-US-translations"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/i18n/en-translations.chunk.js",
+      "size": 18885,
+      "chunks": [
+        "i18n/en-translations"
+      ],
+      "chunkNames": [
+        "i18n/en-translations"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/i18n/en-translations.chunk.js.map",
+      "size": 116,
+      "chunks": [
+        "i18n/en-translations"
+      ],
+      "chunkNames": [
+        "i18n/en-translations"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/i18n/nl-NL-translations.chunk.js",
+      "size": 3438,
+      "chunks": [
+        "i18n/nl-NL-translations"
+      ],
+      "chunkNames": [
+        "i18n/nl-NL-translations"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/i18n/nl-NL-translations.chunk.js.map",
+      "size": 119,
+      "chunks": [
+        "i18n/nl-NL-translations"
+      ],
+      "chunkNames": [
+        "i18n/nl-NL-translations"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/polyfills.chunk.js",
+      "size": 270136,
+      "chunks": [
+        "polyfills"
+      ],
+      "chunkNames": [
+        "polyfills"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/polyfills.chunk.js.map",
+      "size": 228829,
+      "chunks": [
+        "polyfills"
+      ],
+      "chunkNames": [
+        "polyfills"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/shop/cart.chunk.js",
+      "size": 62686,
+      "chunks": [
+        "shop/cart"
+      ],
+      "chunkNames": [
+        "shop/cart"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/shop/cart.chunk.js.map",
+      "size": 39190,
+      "chunks": [
+        "shop/cart"
+      ],
+      "chunkNames": [
+        "shop/cart"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/shop/category.chunk.js",
+      "size": 29235,
+      "chunks": [
+        "shop/category"
+      ],
+      "chunkNames": [
+        "shop/category"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/shop/category.chunk.js.map",
+      "size": 14333,
+      "chunks": [
+        "shop/category"
+      ],
+      "chunkNames": [
+        "shop/category"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/shop/checkout.chunk.js",
+      "size": 238585,
+      "chunks": [
+        "shop/checkout"
+      ],
+      "chunkNames": [
+        "shop/checkout"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/shop/checkout.chunk.js.map",
+      "size": 130613,
+      "chunks": [
+        "shop/checkout"
+      ],
+      "chunkNames": [
+        "shop/checkout"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/shop/product.chunk.js",
+      "size": 14388,
+      "chunks": [
+        "shop/product"
+      ],
+      "chunkNames": [
+        "shop/product"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/shop/product.chunk.js.map",
+      "size": 7433,
+      "chunks": [
+        "shop/product"
+      ],
+      "chunkNames": [
+        "shop/product"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/shop/reset-password.chunk.js",
+      "size": 7114,
+      "chunks": [
+        "shop/reset-password"
+      ],
+      "chunkNames": [
+        "shop/reset-password"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/shop/reset-password.chunk.js.map",
+      "size": 3375,
+      "chunks": [
+        "shop/reset-password"
+      ],
+      "chunkNames": [
+        "shop/reset-password"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/shop/search.chunk.js",
+      "size": 66804,
+      "chunks": [
+        "shop/search"
+      ],
+      "chunkNames": [
+        "shop/search"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/shop/search.chunk.js.map",
+      "size": 30541,
+      "chunks": [
+        "shop/search"
+      ],
+      "chunkNames": [
+        "shop/search"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/shop/sidebar.chunk.js",
+      "size": 10337,
+      "chunks": [
+        "shop/sidebar"
+      ],
+      "chunkNames": [
+        "shop/sidebar"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/shop/sidebar.chunk.js.map",
+      "size": 6476,
+      "chunks": [
+        "shop/sidebar"
+      ],
+      "chunkNames": [
+        "shop/sidebar"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/vendors-blog/blog-blog/post.chunk.js",
+      "size": 45089,
+      "chunks": [
+        "vendors-blog/blog-blog/post"
+      ],
+      "chunkNames": [
+        "vendors-blog/blog-blog/post"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/vendors-blog/blog-blog/post.chunk.js.map",
+      "size": 14482,
+      "chunks": [
+        "vendors-blog/blog-blog/post"
+      ],
+      "chunkNames": [
+        "vendors-blog/blog-blog/post"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/vendors-client.chunk.js",
+      "size": 5378834,
+      "chunks": [
+        "vendors-client"
+      ],
+      "chunkNames": [
+        "vendors-client"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/vendors-client.chunk.js.map",
+      "size": 4922530,
+      "chunks": [
+        "vendors-client"
+      ],
+      "chunkNames": [
+        "vendors-client"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/vendors-components-payments-Adyen.chunk.js",
+      "size": 1376987,
+      "chunks": [
+        "vendors-components-payments-Adyen"
+      ],
+      "chunkNames": [
+        "vendors-components-payments-Adyen"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/vendors-components-payments-Adyen.chunk.js.map",
+      "size": 1573917,
+      "chunks": [
+        "vendors-components-payments-Adyen"
+      ],
+      "chunkNames": [
+        "vendors-components-payments-Adyen"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js",
+      "size": 17150,
+      "chunks": [
+        "vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5"
+      ],
+      "chunkNames": [
+        "vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js.map",
+      "size": 12237,
+      "chunks": [
+        "vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5"
+      ],
+      "chunkNames": [
+        "vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/vendors-components-payments-Stripe.chunk.js",
+      "size": 61174,
+      "chunks": [
+        "vendors-components-payments-Stripe"
+      ],
+      "chunkNames": [
+        "vendors-components-payments-Stripe"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/vendors-components-payments-Stripe.chunk.js.map",
+      "size": 62895,
+      "chunks": [
+        "vendors-components-payments-Stripe"
+      ],
+      "chunkNames": [
+        "vendors-components-payments-Stripe"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/vendors-shop/category-shop/reset-password.chunk.js",
+      "size": 25334,
+      "chunks": [
+        "vendors-shop/category-shop/reset-password"
+      ],
+      "chunkNames": [
+        "vendors-shop/category-shop/reset-password"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/vendors-shop/category-shop/reset-password.chunk.js.map",
+      "size": 24994,
+      "chunks": [
+        "vendors-shop/category-shop/reset-password"
+      ],
+      "chunkNames": [
+        "vendors-shop/category-shop/reset-password"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/vendors.chunk.js",
+      "size": 1638832,
+      "chunks": [
+        "vendors"
+      ],
+      "chunkNames": [
+        "vendors"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/vendors.chunk.js.map",
+      "size": 1695669,
+      "chunks": [
+        "vendors"
+      ],
+      "chunkNames": [
+        "vendors"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/manifest.ba1dc1c5.webmanifest",
+      "size": 1359,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/128x128.fe1e4d0b.png",
+      "size": 4342,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/144x144.8ef8602f.png",
+      "size": 4817,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/152x152.c69c1f35.png",
+      "size": 5290,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/192x192.e9b2ed19.png",
+      "size": 6887,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/384x384.4e3d6609.png",
+      "size": 15324,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/512x512.19ff6dd4.png",
+      "size": 21231,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/72x72.5ef3566f.png",
+      "size": 2200,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/96x96.52899069.png",
+      "size": 2967,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/media/logo.f95b6250.png",
+      "size": 15901,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "client": {
+      "chunks": [
+        "polyfills",
+        "vendors",
+        "vendors-client",
+        "client"
+      ],
+      "assets": [
+        "static/js/polyfills.chunk.js",
+        "static/js/polyfills.chunk.js.map",
+        "static/js/vendors.chunk.js",
+        "static/js/vendors.chunk.js.map",
+        "static/js/vendors-client.chunk.js",
+        "static/js/vendors-client.chunk.js.map",
+        "static/js/client.js",
+        "static/js/client.js.map"
+      ],
+      "children": {
+        "prefetch": [
+          {
+            "name": "shop/sidebar",
+            "chunks": [
+              "shop/sidebar"
+            ],
+            "assets": [
+              "static/js/shop/sidebar.chunk.js",
+              "static/js/shop/sidebar.chunk.js.map"
+            ]
+          }
+        ]
+      },
+      "childAssets": {
+        "prefetch": [
+          "static/js/shop/sidebar.chunk.js",
+          "static/js/shop/sidebar.chunk.js.map"
+        ]
+      }
+    }
+  },
+  "namedChunkGroups": {
+    "client": {
+      "chunks": [
+        "polyfills",
+        "vendors",
+        "vendors-client",
+        "client"
+      ],
+      "assets": [
+        "static/js/polyfills.chunk.js",
+        "static/js/polyfills.chunk.js.map",
+        "static/js/vendors.chunk.js",
+        "static/js/vendors.chunk.js.map",
+        "static/js/vendors-client.chunk.js",
+        "static/js/vendors-client.chunk.js.map",
+        "static/js/client.js",
+        "static/js/client.js.map"
+      ],
+      "children": {
+        "prefetch": [
+          {
+            "name": "shop/sidebar",
+            "chunks": [
+              "shop/sidebar"
+            ],
+            "assets": [
+              "static/js/shop/sidebar.chunk.js",
+              "static/js/shop/sidebar.chunk.js.map"
+            ]
+          }
+        ]
+      },
+      "childAssets": {
+        "prefetch": [
+          "static/js/shop/sidebar.chunk.js",
+          "static/js/shop/sidebar.chunk.js.map"
+        ]
+      }
+    },
+    "home/home": {
+      "chunks": [
+        "home/home"
+      ],
+      "assets": [
+        "static/js/home/home.chunk.js",
+        "static/js/home/home.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "account/account": {
+      "chunks": [
+        "account/account-shop/cart-shop/checkout",
+        "account/account"
+      ],
+      "assets": [
+        "static/js/account/account-shop/cart-shop/checkout.chunk.js",
+        "static/js/account/account-shop/cart-shop/checkout.chunk.js.map",
+        "static/js/account/account.chunk.js",
+        "static/js/account/account.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "account/sign-in": {
+      "chunks": [
+        "account/sign-in"
+      ],
+      "assets": [
+        "static/js/account/sign-in.chunk.js",
+        "static/js/account/sign-in.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "shop/reset-password": {
+      "chunks": [
+        "vendors-shop/category-shop/reset-password",
+        "shop/reset-password"
+      ],
+      "assets": [
+        "static/js/vendors-shop/category-shop/reset-password.chunk.js",
+        "static/js/vendors-shop/category-shop/reset-password.chunk.js.map",
+        "static/js/shop/reset-password.chunk.js",
+        "static/js/shop/reset-password.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "blog/blog": {
+      "chunks": [
+        "vendors-blog/blog-blog/post",
+        "blog/blog"
+      ],
+      "assets": [
+        "static/js/vendors-blog/blog-blog/post.chunk.js",
+        "static/js/vendors-blog/blog-blog/post.chunk.js.map",
+        "static/js/blog/blog.chunk.js",
+        "static/js/blog/blog.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "shop/cart": {
+      "chunks": [
+        "account/account-shop/cart-shop/checkout",
+        "shop/cart"
+      ],
+      "assets": [
+        "static/js/account/account-shop/cart-shop/checkout.chunk.js",
+        "static/js/account/account-shop/cart-shop/checkout.chunk.js.map",
+        "static/js/shop/cart.chunk.js",
+        "static/js/shop/cart.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "shop/checkout": {
+      "chunks": [
+        "account/account-shop/cart-shop/checkout",
+        "shop/checkout"
+      ],
+      "assets": [
+        "static/js/account/account-shop/cart-shop/checkout.chunk.js",
+        "static/js/account/account-shop/cart-shop/checkout.chunk.js.map",
+        "static/js/shop/checkout.chunk.js",
+        "static/js/shop/checkout.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "shop/sidebar": {
+      "chunks": [
+        "shop/sidebar"
+      ],
+      "assets": [
+        "static/js/shop/sidebar.chunk.js",
+        "static/js/shop/sidebar.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "blog/post": {
+      "chunks": [
+        "vendors-blog/blog-blog/post",
+        "blog/post"
+      ],
+      "assets": [
+        "static/js/vendors-blog/blog-blog/post.chunk.js",
+        "static/js/vendors-blog/blog-blog/post.chunk.js.map",
+        "static/js/blog/post.chunk.js",
+        "static/js/blog/post.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "shop/category": {
+      "chunks": [
+        "vendors-shop/category-shop/reset-password",
+        "shop/category"
+      ],
+      "assets": [
+        "static/js/vendors-shop/category-shop/reset-password.chunk.js",
+        "static/js/vendors-shop/category-shop/reset-password.chunk.js.map",
+        "static/js/shop/category.chunk.js",
+        "static/js/shop/category.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "shop/product": {
+      "chunks": [
+        "shop/product"
+      ],
+      "assets": [
+        "static/js/shop/product.chunk.js",
+        "static/js/shop/product.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "shop/search": {
+      "chunks": [
+        "shop/search"
+      ],
+      "assets": [
+        "static/js/shop/search.chunk.js",
+        "static/js/shop/search.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "i18n/en-translations": {
+      "chunks": [
+        "i18n/en-translations"
+      ],
+      "assets": [
+        "static/js/i18n/en-translations.chunk.js",
+        "static/js/i18n/en-translations.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "i18n/en-translations-json": {
+      "chunks": [
+        "i18n/en-translations"
+      ],
+      "assets": [
+        "static/js/i18n/en-translations.chunk.js",
+        "static/js/i18n/en-translations.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "i18n/en-GB-translations": {
+      "chunks": [
+        "i18n/en-GB-translations"
+      ],
+      "assets": [
+        "static/js/i18n/en-GB-translations.chunk.js",
+        "static/js/i18n/en-GB-translations.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "i18n/en-GB-translations-json": {
+      "chunks": [
+        "i18n/en-GB-translations"
+      ],
+      "assets": [
+        "static/js/i18n/en-GB-translations.chunk.js",
+        "static/js/i18n/en-GB-translations.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "i18n/en-US-translations": {
+      "chunks": [
+        "i18n/en-US-translations"
+      ],
+      "assets": [
+        "static/js/i18n/en-US-translations.chunk.js",
+        "static/js/i18n/en-US-translations.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "i18n/en-US-translations-json": {
+      "chunks": [
+        "i18n/en-US-translations"
+      ],
+      "assets": [
+        "static/js/i18n/en-US-translations.chunk.js",
+        "static/js/i18n/en-US-translations.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "i18n/nl-NL-translations": {
+      "chunks": [
+        "i18n/nl-NL-translations"
+      ],
+      "assets": [
+        "static/js/i18n/nl-NL-translations.chunk.js",
+        "static/js/i18n/nl-NL-translations.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "i18n/nl-NL-translations-json": {
+      "chunks": [
+        "i18n/nl-NL-translations"
+      ],
+      "assets": [
+        "static/js/i18n/nl-NL-translations.chunk.js",
+        "static/js/i18n/nl-NL-translations.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Adyen": {
+      "chunks": [
+        "vendors-components-payments-Adyen",
+        "components-payments-Adyen"
+      ],
+      "assets": [
+        "static/js/vendors-components-payments-Adyen.chunk.js",
+        "static/js/vendors-components-payments-Adyen.chunk.js.map",
+        "static/js/components-payments-Adyen.chunk.js",
+        "static/js/components-payments-Adyen.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Adyen-js": {
+      "chunks": [
+        "vendors-components-payments-Adyen",
+        "components-payments-Adyen"
+      ],
+      "assets": [
+        "static/js/vendors-components-payments-Adyen.chunk.js",
+        "static/js/vendors-components-payments-Adyen.chunk.js.map",
+        "static/js/components-payments-Adyen.chunk.js",
+        "static/js/components-payments-Adyen.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Magento-PayPal": {
+      "chunks": [
+        "components-payments-Magento-PayPal"
+      ],
+      "assets": [
+        "static/js/components-payments-Magento-PayPal.chunk.js",
+        "static/js/components-payments-Magento-PayPal.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Magento-PayPal-js": {
+      "chunks": [
+        "components-payments-Magento-PayPal"
+      ],
+      "assets": [
+        "static/js/components-payments-Magento-PayPal.chunk.js",
+        "static/js/components-payments-Magento-PayPal.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Mollie-CreditCard": {
+      "chunks": [
+        "vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5",
+        "components-payments-Mollie-CreditCard"
+      ],
+      "assets": [
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js",
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js.map",
+        "static/js/components-payments-Mollie-CreditCard.chunk.js",
+        "static/js/components-payments-Mollie-CreditCard.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Mollie-CreditCard-js": {
+      "chunks": [
+        "vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5",
+        "components-payments-Mollie-CreditCard"
+      ],
+      "assets": [
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js",
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js.map",
+        "static/js/components-payments-Mollie-CreditCard.chunk.js",
+        "static/js/components-payments-Mollie-CreditCard.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Mollie-Default": {
+      "chunks": [
+        "components-payments-Mollie-Default"
+      ],
+      "assets": [
+        "static/js/components-payments-Mollie-Default.chunk.js",
+        "static/js/components-payments-Mollie-Default.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Mollie-Default-js": {
+      "chunks": [
+        "components-payments-Mollie-Default"
+      ],
+      "assets": [
+        "static/js/components-payments-Mollie-Default.chunk.js",
+        "static/js/components-payments-Mollie-Default.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Mollie-Giftcard": {
+      "chunks": [
+        "vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5",
+        "components-payments-Mollie-Giftcard"
+      ],
+      "assets": [
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js",
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js.map",
+        "static/js/components-payments-Mollie-Giftcard.chunk.js",
+        "static/js/components-payments-Mollie-Giftcard.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Mollie-Giftcard-js": {
+      "chunks": [
+        "vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5",
+        "components-payments-Mollie-Giftcard"
+      ],
+      "assets": [
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js",
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js.map",
+        "static/js/components-payments-Mollie-Giftcard.chunk.js",
+        "static/js/components-payments-Mollie-Giftcard.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Mollie-Ideal": {
+      "chunks": [
+        "vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5",
+        "components-payments-Mollie-Ideal"
+      ],
+      "assets": [
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js",
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js.map",
+        "static/js/components-payments-Mollie-Ideal.chunk.js",
+        "static/js/components-payments-Mollie-Ideal.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Mollie-Ideal-js": {
+      "chunks": [
+        "vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5",
+        "components-payments-Mollie-Ideal"
+      ],
+      "assets": [
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js",
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js.map",
+        "static/js/components-payments-Mollie-Ideal.chunk.js",
+        "static/js/components-payments-Mollie-Ideal.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Mollie-IssuerSelection": {
+      "chunks": [
+        "vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5",
+        "components-payments-Mollie-IssuerSelection"
+      ],
+      "assets": [
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js",
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js.map",
+        "static/js/components-payments-Mollie-IssuerSelection.chunk.js",
+        "static/js/components-payments-Mollie-IssuerSelection.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Mollie-IssuerSelection-js": {
+      "chunks": [
+        "vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5",
+        "components-payments-Mollie-IssuerSelection"
+      ],
+      "assets": [
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js",
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js.map",
+        "static/js/components-payments-Mollie-IssuerSelection.chunk.js",
+        "static/js/components-payments-Mollie-IssuerSelection.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Mollie-KBC": {
+      "chunks": [
+        "vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5",
+        "components-payments-Mollie-KBC"
+      ],
+      "assets": [
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js",
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js.map",
+        "static/js/components-payments-Mollie-KBC.chunk.js",
+        "static/js/components-payments-Mollie-KBC.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Mollie-KBC-js": {
+      "chunks": [
+        "vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5",
+        "components-payments-Mollie-KBC"
+      ],
+      "assets": [
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js",
+        "static/js/vendors-components-payments-Mollie-CreditCard-components-payments-Mollie-Giftcard-components-payment-6ebabdc5.chunk.js.map",
+        "static/js/components-payments-Mollie-KBC.chunk.js",
+        "static/js/components-payments-Mollie-KBC.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Mollie-KlarnaPayLater": {
+      "chunks": [
+        "components-payments-Mollie-KlarnaPayLater"
+      ],
+      "assets": [
+        "static/js/components-payments-Mollie-KlarnaPayLater.chunk.js",
+        "static/js/components-payments-Mollie-KlarnaPayLater.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Mollie-KlarnaPayLater-js": {
+      "chunks": [
+        "components-payments-Mollie-KlarnaPayLater"
+      ],
+      "assets": [
+        "static/js/components-payments-Mollie-KlarnaPayLater.chunk.js",
+        "static/js/components-payments-Mollie-KlarnaPayLater.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Mollie-PayPal": {
+      "chunks": [
+        "components-payments-Mollie-PayPal"
+      ],
+      "assets": [
+        "static/js/components-payments-Mollie-PayPal.chunk.js",
+        "static/js/components-payments-Mollie-PayPal.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Mollie-PayPal-js": {
+      "chunks": [
+        "components-payments-Mollie-PayPal"
+      ],
+      "assets": [
+        "static/js/components-payments-Mollie-PayPal.chunk.js",
+        "static/js/components-payments-Mollie-PayPal.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-SimplePayment": {
+      "chunks": [
+        "components-payments-SimplePayment"
+      ],
+      "assets": [
+        "static/js/components-payments-SimplePayment.chunk.js",
+        "static/js/components-payments-SimplePayment.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-SimplePayment-js": {
+      "chunks": [
+        "components-payments-SimplePayment"
+      ],
+      "assets": [
+        "static/js/components-payments-SimplePayment.chunk.js",
+        "static/js/components-payments-SimplePayment.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Stripe": {
+      "chunks": [
+        "vendors-components-payments-Stripe",
+        "components-payments-Stripe"
+      ],
+      "assets": [
+        "static/js/vendors-components-payments-Stripe.chunk.js",
+        "static/js/vendors-components-payments-Stripe.chunk.js.map",
+        "static/js/components-payments-Stripe.chunk.js",
+        "static/js/components-payments-Stripe.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-payments-Stripe-js": {
+      "chunks": [
+        "vendors-components-payments-Stripe",
+        "components-payments-Stripe"
+      ],
+      "assets": [
+        "static/js/vendors-components-payments-Stripe.chunk.js",
+        "static/js/vendors-components-payments-Stripe.chunk.js.map",
+        "static/js/components-payments-Stripe.chunk.js",
+        "static/js/components-payments-Stripe.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 8,
+      "debug": false
+    }
+  },
+  "children": []
+}

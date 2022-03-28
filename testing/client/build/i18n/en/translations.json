@@ -1,0 +1,512 @@
+{
+  "name": "Deity",
+  "copyright": "© Copyright {{year}}",
+  "continue": "Continue",
+  "edit": "Edit",
+  "languages": {
+    "cimode": "cimode",
+    "en-US": "English",
+    "nl-NL": "Dutch"
+  },
+  "ui": {
+    "selectDefault": "Please Select..."
+  },
+  "banner": {
+    "contactLink": "Contact",
+    "blogLink": "Blog"
+  },
+  "newsletter": {
+    "title": "Newsletter",
+    "message": "Join our mailing list to receive the latest offers and more!",
+    "subscribe": "Subscribe",
+    "emailPlaceholder": "Enter your email address",
+    "consent": "I would like to subscribe to updates"
+  },
+  "sitemap": {
+    "customerService": "Customer service",
+    "trackOrderLink": "Track order",
+    "returnPolicyLink": "Return policy",
+    "faqsLink": "FAQs",
+    "aboutUs": "About us",
+    "aboutUsLink": "About us",
+    "blogLink": "Blog",
+    "jobsLink": "Jobs",
+    "terms": "Terms",
+    "cookiesLink": "Cookies",
+    "termsLink": "Terms",
+    "search": "Search our store"
+  },
+  "home": {
+    "hotSellers": "Hot sellers"
+  },
+  "blog": {
+    "title": "Blog",
+    "postTitle": "Post page",
+    "readMore": "Read more...",
+    "newerEntries": "Newer Entries",
+    "olderEntries": "Older Entries"
+  },
+  "product": {
+    "sku": "SKU: {{sku}}",
+    "inStock": "In stock",
+    "notInStock": "Not in stock",
+    "reviews": "{{count}} review",
+    "reviews_plural": "{{count}} reviews",
+    "addToCart": "Add to cart",
+    "qtyFieldLabel": "Quantity",
+    "options": {
+      "93FieldRequired": "Please select a {{label}}.",
+      "145FieldRequired": "Please select a {{label}}."
+    },
+    "tierPriceDescription": "Buy {{qty}} for {{price}} and safe {{discount}}%",
+    "error": {
+      "quantity": "Quantity must be greater than 0",
+      "options": "Please select all required options"
+    },
+    "tabs": {
+      "description": "Description",
+      "moreInformation": "More information",
+      "reviews": "Reviews ({{count}})"
+    }
+  },
+  "productPrice": {
+    "from": "From",
+    "saveAmount": "save {{amount}}%"
+  },
+  "productGallery": {
+    "noImage": "New product picture is on the way",
+    "imageAlt": "Gallery item"
+  },
+  "productList": {
+    "pagination": {
+      "showingOutOf": "Showing {{itemsCount}} products out of {{totalItems}}",
+      "showMore": "Show more products"
+    },
+    "sort": {
+      "title": "Sort by",
+      "disabled": "No sort",
+      "ascending": "ascending",
+      "descending": "descending"
+    },
+    "empty": "No products found."
+  },
+  "filters": {
+    "clearAll": "Clear all filters"
+  },
+  "miniCart": {
+    "title": "Your cart",
+    "checkout": "Proceed to checkout",
+    "empty": "Shopping cart is empty",
+    "goShoppingButton": "$t(cart.goShoppingButton)",
+    "cartCount": "{{count}} item in your cart",
+    "cartCount_plural": "{{count}} items in your cart",
+    "editCart": "Edit cart",
+    "doneEditing": "Done editing",
+    "remove": "Remove"
+  },
+  "cart": {
+    "title": "Cart summary",
+    "emptyCart": "There's nothing in your cart yet",
+    "goShoppingButton": "Let's go shopping!",
+    "couponCode": "Voucher code",
+    "applyCouponCode": "Add",
+    "cancelCouponCode": "Remove",
+    "invalidCouponCode": "Invalid coupon code",
+    "checkout": "Proceed to checkout",
+    "continueShopping": "Or continue shopping.",
+    "subtitle": "Take a look at what's in your cart before proceeding to checkout."
+  },
+  "checkout": {
+    "payment": "Payment",
+    "shipping": "Shipping",
+    "noShippingMethodsAvailable": "Unfortunately, we are unable to deliver to the specified shipping address. Please adjust your shipping address or contact us.",
+    "noPaymentMethodsAvailable": "There are no available payment methods for this order. Please contact shop administrator.",
+    "externalPaymentRedirect": "Redirecting to the external Payment Gateway URL...",
+    "summary": "Summary",
+    "editCart": "$t(checkout.edit)",
+    "placeOrder": "Place order",
+    "nextStep": "Continue to $t(checkout.{{step}}SectionTitle)",
+    "shippingAddress": "Shipping address",
+    "billingAddress": "Billing address",
+    "useTheSameAddress": "Use this address as billing address.",
+    "customerSectionTitle": "Customer info",
+    "customerCheckoutMessage": "To continue with your order, please fill in your address details or choose one of your saved addresses.",
+    "guestCheckoutMessageP1": "You have chosen Guest checkout. ",
+    "signInLink": "Sign in or register",
+    "guestCheckoutMessageP2": " to receive updates on new products, faster checkouts, and use order tracking.",
+    "savedAddress": "Saved address",
+    "shippingAddressSectionTitle": "$t(checkout.shippingAddress)",
+    "billingAddressSectionTitle": "$t(checkout.billingAddress)",
+    "shippingMethodSectionTitle": "Delivery",
+    "shippingMethodSectionDescription": "How should the order be delivered?",
+    "chooseShippingMethod": "Choose a delivery method",
+    "paymentMethodSectionTitle": "Payment",
+    "paymentMethodSectionDescription": "How would you like to pay?",
+    "choosePaymentMethod": "Choose a payment method",
+    "placeOrderSectionTitle": "Summary",
+    "placeOrderSectionDescription": "Check if everything is correct before you place your order.",
+    "paymentRedirectTitle": "Please wait",
+    "paymentRedirectDescription": "You are being redirected to complete payment...",
+    "shippingMethod": "Delivery method",
+    "paymentMethod": "Payment method",
+    "cartLabel": "Cart",
+    "cartItems": "{{count}} item",
+    "cartItems_plural": "{{count}} items",
+    "edit": "Edit",
+    "couponLabel": "Voucher",
+    "shippingAddressLabel": "Delivery address",
+    "billingAddressLabel": "Billing address",
+    "shippingMethodLabel": "$t(checkout.shippingMethod)",
+    "paymentMethodLabel": "$t(checkout.paymentMethod)",
+    "itemsLabel": "Items",
+    "paymentLabel": "Payment",
+    "shippingLabel": "Shipping",
+    "discountLabel": "Discount",
+    "taxLabel": "Tax",
+    "nextStepGeneric": "Continue",
+    "prevStep": "Go back to $t(checkout.{{step}}SectionTitle)",
+    "prevStepGeneric": "Go back",
+    "changePaymentMethod": "Choose another payment method",
+    "noPayment": "No payment is needed for this order.",
+    "payments": {
+      "mollie": {
+        "ideal": "iDEAL",
+        "creditcard": "Credit Card",
+        "klarnapaylater": "Klarna (Pay later)",
+        "paypal": "PayPal",
+        "sofort": "sofort",
+        "giftcard": "Gift Card",
+        "voucher": "Gift Voucher",
+        "bancontact": "Bancontact",
+        "giropay": "Giropay",
+        "eps": "EPS",
+        "przelewy24": "Przelewy24",
+        "kbc": "KBC",
+        "belfius": "Belfius",
+        "inghomepay": "ING Home’Pay",
+        "banktransfer": "SEPA Bank Transfer"
+      },
+      "stripe": {
+        "creditcard": "Credit Card"
+      },
+      "cash": {
+        "cash": "cash"
+      },
+      "magento": {
+        "checkmo": "Check / Money order",
+        "paypal_express": "PayPal Express",
+        "adyen_oneclick": "Adyen One Click",
+        "adyen_cc": "Credit Card",
+        "deity_payment_offline": "Cash"
+      }
+    }
+  },
+  "checkoutConfirmation": {
+    "title": "Thank you for your order!",
+    "orderReceived": "We have received your order (No.: {{referenceNo}}) with the following items:",
+    "realizationNotice": "We are working hard on getting your items to you as soon as possible.",
+    "shippingNotice": "We will send you a shipping confirmation email once your order is on the way.",
+    "pageTitle": "Order Success",
+    "goShoppingButton": "Continue shopping"
+  },
+  "creditCard": {
+    "namePlaceholder": "Name on card",
+    "numberPlaceholder": "Card number",
+    "cvcPlaceholder": "CVC",
+    "expiryPlaceholder": "MM/YY",
+    "errors": {
+      "invalidCvc": "CVC is invalid",
+      "invalidCardNumber": "Card number is invalid",
+      "invalidExpiryDate": "Expiry date is invalid",
+      "monthOutOfRange": "Expiry month must be between 01 and 12",
+      "yearOutOfRange": "Expiry year cannot be in the past",
+      "dateOutOfRange": "Expiry date cannot be in the past"
+    }
+  },
+  "form": {
+    "passwordRevealTitle_show": "Show password",
+    "passwordRevealTitle_hide": "Hide password"
+  },
+  "signIn": {
+    "title": "Sign In",
+    "link": "Sign in",
+    "emailFieldLabel": "Email",
+    "emailFieldPlaceholder": "Email",
+    "passwordFieldLabel": "Password",
+    "passwordFieldPlaceholder": "Password",
+    "submitButton": "Sign in",
+    "forgotPasswordLink": "Forgot your password?",
+    "doNotHaveAnAccountP1": "Sign into your account using your credentials. If you don’t have an account you can also ",
+    "doNotHAveAnAccountLink": "create a new account",
+    "doNotHaveAnAccountP2": ".",
+    "forgotPasswordP1": "Forgot your password?",
+    "forgotPasswordP2": " to reset."
+  },
+  "forgotPassword": {
+    "title": "Forgot Password",
+    "emailFieldLabel": "Email",
+    "successMessage": "If there is an account associated with {{values.email}} you will receive an email with a link to reset your password.",
+    "submitButton": "Reset my password"
+  },
+  "resetPassword": {
+    "title": "Reset Password",
+    "passwordFieldLabel": "New Password",
+    "passwordFieldPlaceholder": "At least 8 characters",
+    "failureMessage": "The reset password token you provided is invalid or has expired.",
+    "requestAnotherToken": "Request another one",
+    "successMessage": "Your password has been reset successfully!",
+    "submitButton": "Set my new password"
+  },
+  "signOut": {
+    "link": "Logout"
+  },
+  "signUp": {
+    "title": "Register",
+    "firstnameFieldLabel": "First Name",
+    "lastnameFieldLabel": "Last Name",
+    "emailFieldLabel": "Email",
+    "passwordFieldLabel": "Password",
+    "passwordFieldPlaceholder": "At least 8 characters",
+    "confirmPasswordFieldLabel": "Confirm Password",
+    "confirmPasswordFieldPlaceholder": "Re-enter your password here",
+    "submitButton": "Create an account"
+  },
+  "newAccount": {
+    "title": "New Customers",
+    "benefitsHeader": "Creating an account has many benefits:",
+    "benefitList": [
+      "check out faster",
+      "keep more than one address",
+      "track orders and more"
+    ],
+    "createAnAccount": "Create an account"
+  },
+  "account": {
+    "link": "Account",
+    "dashboardLink": "Dashboard",
+    "personalInformationLink": "Personal Information",
+    "addressBookLink": "Address Book",
+    "ordersLink": "Orders",
+    "productReviewsLink": "Product Reviews",
+    "wishListLink": "Wish List"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "recentOrder": "Recent order",
+    "personalInformation": "Personal information",
+    "viewAllOrders": "View all",
+    "addressBook": "Address book",
+    "manageAddresses": "Manage addresses",
+    "editCustomerLink": "Edit",
+    "changePasswordLink": "Change password"
+  },
+  "orderList": {
+    "title": "Orders",
+    "link": "Orders",
+    "idLabel": "Order #",
+    "createdAtLabel": "Date",
+    "shipToLabel": "Ship to",
+    "grandTotalLabel": "Order total",
+    "statusLabel": "$t(order.statusLabel)",
+    "actionsLabel": "Actions",
+    "viewOrderLink": "View",
+    "showMore": "Show more orders",
+    "empty": "You have not made any purchases yet."
+  },
+  "order": {
+    "title": "#{{orderId}}",
+    "statusLabel": "Status",
+    "status_na": "N/A",
+    "status_pending": "Pending",
+    "status_payment_revieworder": "Awaiting Payment",
+    "quantityLabel": "Quantity:",
+    "billingAddressLabel": "Billing address",
+    "shippingAddressLabel": "Shipping address",
+    "createdAtLabel": "Ordered at",
+    "shippingMethodLabel": "Shipping method",
+    "paymentMethodLabel": "Payment method",
+    "subtotalLabel": "Subtotal",
+    "shippingAmountLabel": "Shipping & Handling",
+    "paymentAmountLabel": "Payment fee",
+    "grandTotalLabel": "Total",
+    "status_paymentIncomplete": "incomplete payment",
+    "status_paymentPending": "pending payment",
+    "status_paymentFailed": "failed payment",
+    "status_paymentCanceled": "canceled payment",
+    "status_paymentDisputed": "payment disputed",
+    "status_fulfillmentPending": "awaiting fulfillment",
+    "status_declined": "declined",
+    "status_cancelled": "cancelled",
+    "status_manualVerificationRequired": "verification required",
+    "status_shipmentPending": "awaiting shipment",
+    "status_shippedPartially": "partially shipped",
+    "status_shippedFully": "shipped",
+    "status_pickupAwaiting": "awaiting pickup",
+    "status_completed": "completed",
+    "status_refundedPartially": "partially refunded",
+    "status_refundedFully": "refunded"
+  },
+  "customerSelector": {
+    "title": "Customer",
+    "signOut": "$t(signOut.link)",
+    "edit": "$t(edit)",
+    "or": "or",
+    "signInLink": "sign in with your account",
+    "ifAlreadyRegistered": "if you are already registered",
+    "invalidEmail": "Invalid email address",
+    "guestPrompt": "Type your email and continue as guest:",
+    "submitButton": "Continue as guest"
+  },
+  "addressForm": {
+    "emailFieldLabel": "Email",
+    "companyFieldLabel": "Company",
+    "firstnameFieldLabel": "First name",
+    "lastnameFieldLabel": "Last name",
+    "telephoneFieldLabel": "Phone number",
+    "street1FieldLabel": "Street line 1",
+    "street2FieldLabel": "Street line 2",
+    "postcodeFieldLabel": "ZIP code",
+    "cityFieldLabel": "City",
+    "countryFieldLabel": "Country",
+    "countryFieldPlaceholder": "Please select a country",
+    "regionFieldLabel": "Region",
+    "regionFieldPlaceholder": "Please select a region",
+    "defaultShippingFieldLabel": "Use as my default shipping address",
+    "defaultBillingFieldLabel": "Use as my default billing address"
+  },
+  "addressBook": {
+    "title": "Address Book",
+    "sectionTitle_billing": "Default Billing Address",
+    "sectionTitle_shipping": "Default Shipping Address",
+    "sectionTitle_billing&shipping": "Default Address",
+    "sectionTitle_other": "Other Addresses",
+    "addNewButton": "Add new Address",
+    "editButton": "Edit",
+    "removeButton": "Delete",
+    "removeConfirmationMessage": "Are you sure?"
+  },
+  "editAddress": {
+    "title": "Edit Address",
+    "submitButton": "Update",
+    "cancelButton": "Cancel"
+  },
+  "addAddress": {
+    "title": "Add Address",
+    "submitButton": "Save",
+    "cancelButton": "$t(editAddress.cancelButton)"
+  },
+  "editCustomer": {
+    "title": "Personal Information",
+    "firstnameFieldLabel": "$t(signUp.firstnameFieldLabel)",
+    "lastnameFieldLabel": "$t(signUp.lastnameFieldLabel)",
+    "emailFieldLabel": "$t(signUp.emailFieldLabel)",
+    "submitButton": "Update",
+    "changePassword": "Change password"
+  },
+  "changePassword": {
+    "title": "Change Password",
+    "currentPasswordFieldLabel": "Password",
+    "passwordFieldLabel": "New Password",
+    "passwordFieldPlaceholder": "At least 8 characters",
+    "submitButton": "Update",
+    "cancelButton": "Cancel"
+  },
+  "notFound": {
+    "title": "Not found",
+    "text": "The content you were trying to reach couldn't be found.",
+    "goHomeButton": "Go back to Home page"
+  },
+  "formError": {
+    "required": "Please enter a {{label}}.",
+    "isNotChecked": "{{label}} must be checked.",
+    "invalid": "Please enter a valid {{label}}.",
+    "notAnNumber": "Please enter a number for {{label}}.",
+    "notAnInteger": "Please enter an integer for {{label}}.",
+    "uncomplexPassword": "Please enter a {{label}} with at least one lower, upper case char and digit",
+    "tooShort": "Please enter a {{label}} with at least {{min}} characters.",
+    "tooLong": "Please enter a {{label}} with maximum {{max}} characters.",
+    "tooLittleLines": "Please enter a {{label}} with at least {{min}} lines.",
+    "tooManyLines": "Please enter a {{label}} with at most {{max}} lines.",
+    "belowRange": "Please enter a {{label}} no smaller than {{min}}.",
+    "aboveRange": "Please enter a {{label}} no greater than {{max}}.",
+    "belowDateRange": "Please enter a {{label}} no earlier than {{min}}.",
+    "aboveDateRange": "Please enter a {{label}} no later than {{max}}.",
+    "registeredEmailError": "This email is registered, please provide a different one or $t(formError.clickHere) to sign in.",
+    "clickHere": "Click here",
+    "differentPasswords": "Please ensure that both password fields are the same."
+  },
+  "error": {
+    "unknown": "Something went wrong...",
+    "failedToFetch": "We can not reach our services at this moment, please try again later."
+  },
+  "scopes": {
+    "cimode": "cimode",
+    "default": "English",
+    "en_us": "English",
+    "en_gb": "English",
+    "nl_nl": "Dutch"
+  },
+  "app": {
+    "offlineMessage": "It looks like you are offline. Some services might not work as expected unitl you're back online.",
+    "skipToMain": "Skip to the main content",
+    "confirmLeave": "Are you sure you want to leave the page? Information you have entered might not be saved.",
+    "loading": "Loading",
+    "supportEmail": "info@deity.io"
+  },
+  "checkoutSignIn": {
+    "title": "Sign in to your account.",
+    "description": "Sign in to proceed to checkout.",
+    "newCustomer": "New customer?",
+    "newCustomerMessage": "Become a member and receive updates on new products, invitations to member-only events, faster checkouts, and order tracking.",
+    "newCustomerButton": "Create new account",
+    "haveAccount": "Already have an account?",
+    "haveAccountMessage": "Sign in with your credentials.",
+    "haveAccountButton": "Sign in to your account",
+    "guest": "Checkout as guest",
+    "guestMessage": "Keep in mind you won’t be able to receive exclusive deals, checkout faster and track your orders.",
+    "guestButton": "Continue as guest"
+  },
+  "checkoutPending": {
+    "title": "Payment Pending",
+    "body": "The status of your payment is being obtained",
+    "pendingOrder": "We've received your order but your payment is still pending. Once we've received payment it will be marked as complete and you'll be notified by email.",
+    "pendingOrder2": "Thanks for shopping with us."
+  },
+  "checkoutFailure": {
+    "title": "Order Failed",
+    "body": " Unfortunately we could not process your payment.",
+    "restoreCartSuccess": "Hooray! We've restored your cart and checkout data.",
+    "goToCheckoutButton": "Go to Checkout",
+    "goShoppingButton": "Continue Shopping",
+    "restoreCartFailed": "We were unable to restore your data.",
+    "restoreCartInformation": "Would you like us to restore your data to try again?",
+    "restoreCartButton": "Restore your cart"
+  },
+  "price": {
+    "free": "Free"
+  },
+  "alert": {
+    "hide": "Hide message"
+  },
+  "payment": {
+    "redirect": {
+      "default": "You will be redirected to finalize your order and pay.",
+      "paypal": "You will be redirected to PayPal finalize your order.",
+      "klarna": {
+        "payLater": "You will be redirected to Klarna Pay Later to finalize your order."
+      },
+      "giftcard": "After adding your giftcard details you will be redirected to finalize your order."
+    },
+    "giftcard": {
+      "number": "Giftcard Number",
+      "pin": "Giftcard Pin",
+      "note": "If you have a pin on your giftcard then we'll need it to make the payment."
+    },
+    "issuer": "Issuer"
+  },
+  "search": {
+    "titleWithTerm": "Search results for: {{term}}",
+    "titleWithoutTerm": "Search",
+    "placeholder": "Search for products"
+  }
+}
