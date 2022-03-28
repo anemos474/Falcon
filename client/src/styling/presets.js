@@ -3,9 +3,9 @@ export const themePresets = [
     name: 'Deity Green',
     theme: {
       colors: {
-        primary: '#A9CF38',
-        primaryLight: '#CBDE6E',
-        primaryDark: '#A9CF38',
+        primary: '#fff',
+        primaryLight: '#fff',
+        primaryDark: '#fff',
         primaryText: '#fff'
       },
       components: {
@@ -24,17 +24,17 @@ export const themePresets = [
     name: 'Ocean Blue',
     theme: {
       colors: {
-        primary: '#2196f3',
-        primaryLight: '#6ec6ff',
-        primaryDark: '#0069c0',
+        primary: '#fff',
+        primaryLight: '#fff',
+        primaryDark: '#fff',
         primaryText: '#ffffff',
 
-        secondary: '#eef0f2',
-        secondaryLight: '#f8f8f8',
-        secondaryDark: '#e8e8e8',
-        secondaryText: '#5f6367',
+        secondary: '#fff',
+        secondaryLight: '#fff',
+        secondaryDark: '#fff',
+        secondaryText: '#fff',
 
-        error: '#f44336',
+        error: '#fff',
         errorText: '#000000'
       },
       spacing: {
@@ -106,13 +106,13 @@ export const themePresets = [
     name: 'Insanely Pink',
     theme: {
       colors: {
-        primary: '#e45e93',
-        primaryLight: '#ed92b6',
-        primaryDark: '#c52163',
+        primary: '#fff',
+        primaryLight: '#fff',
+        primaryDark: '#fff',
         primaryText: '#fff',
 
-        errorText: '#000000',
-        black: '#9b9aa0'
+        errorText: '#fff',
+        black: '#fff'
       },
 
       fonts: {

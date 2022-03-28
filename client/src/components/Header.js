@@ -19,6 +19,7 @@ export const GET_CART = gql`
 export const Header = () => {
   const history = useHistory();
   const sidebar = useSidebarContainer();
+  console.log('work')
 
   return (
     <CustomerQuery>
